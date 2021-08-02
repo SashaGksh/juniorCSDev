@@ -1,0 +1,5 @@
+C:\Users\sasha\source\repos\JuniorCSDev\ControllerLayer\obj\Debug\net5.0\ControllerLayer.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\JuniorCSDev\ControllerLayer\obj\Debug\net5.0\ControllerLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\JuniorCSDev\ControllerLayer\obj\Debug\net5.0\ControllerLayer.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\JuniorCSDev\ControllerLayer\obj\Debug\net5.0\ControllerLayer.AssemblyInfo.cs
+C:\Users\sasha\source\repos\JuniorCSDev\ControllerLayer\obj\Debug\net5.0\ControllerLayer.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\sasha\source\repos\JuniorCSDev\DataLayer\bin\Debug\net5.0\DataLayer.deps.json
+C:\Users\sasha\source\repos\JuniorCSDev\DataLayer\bin\Debug\net5.0\DataLayer.runtimeconfig.json
+C:\Users\sasha\source\repos\JuniorCSDev\DataLayer\bin\Debug\net5.0\DataLayer.runtimeconfig.dev.json
+C:\Users\sasha\source\repos\JuniorCSDev\DataLayer\bin\Debug\net5.0\DataLayer.dll
+C:\Users\sasha\source\repos\JuniorCSDev\DataLayer\bin\Debug\net5.0\ref\DataLayer.dll
+C:\Users\sasha\source\repos\JuniorCSDev\DataLayer\bin\Debug\net5.0\DataLayer.pdb
+C:\Users\sasha\source\repos\JuniorCSDev\DataLayer\obj\Debug\net5.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\JuniorCSDev\DataLayer\obj\Debug\net5.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\JuniorCSDev\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\JuniorCSDev\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfo.cs
+C:\Users\sasha\source\repos\JuniorCSDev\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\JuniorCSDev\DataLayer\obj\Debug\net5.0\DataLayer.dll
+C:\Users\sasha\source\repos\JuniorCSDev\DataLayer\obj\Debug\net5.0\ref\DataLayer.dll
+C:\Users\sasha\source\repos\JuniorCSDev\DataLayer\obj\Debug\net5.0\DataLayer.pdb
+C:\Users\sasha\source\repos\JuniorCSDev\DataLayer\obj\Debug\net5.0\DataLayer.genruntimeconfig.cache
